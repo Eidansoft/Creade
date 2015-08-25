@@ -7,7 +7,7 @@ rutaScriptsLimpieza="/home/alex/programacion/Intercambia/importadorWordpress"
 zip creacionTablas.sql.zip creacionTablas.sql
 
 # Ahora para todos los SQL pequenios
-archivos="datosTablas/02_itmt.sql datosTablas/03_listaDescarga.sql datosTablas/04_contenidoAgenda.sql"
+archivos="datosTablas/02_itmt.sql datosTablas/03_listaDescarga.sql datosTablas/04_contenidoAgenda.sql datosTablas/paginasEstaticas.sql"
 sql1="datosCreade1.sql"
 
 # Si existe el archivo intermedio lo elimino para empezar desde 0
