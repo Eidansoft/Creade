@@ -8,7 +8,7 @@ zip creacionTablas.sql.zip creacionTablas.sql
 
 # Ahora para todos los SQL pequenios
 archivos="datosTablas/02_itmt.sql datosTablas/03_listaDescarga.sql datosTablas/04_contenidoAgenda.sql"
-sql1="datosIntercambia1.sql"
+sql1="datosCreade1.sql"
 
 # Si existe el archivo intermedio lo elimino para empezar desde 0
 [ -f $sql1 ] && rm $sql1
@@ -35,7 +35,7 @@ rm ${sql1}
 
 # Para el archivo mas grande, relizo los mismos pasos pero generando su archivo independiente
 archivo="datosTablas/01_bloqueTexto.sql"
-sql2="datosIntercambia2.sql"
+sql2="datosCreade2.sql"
 # Si existe el archivo intermedio lo elimino para empezar desde 0
 [ -f $sql2 ] && rm $sql2
 # Limpio y concateno
