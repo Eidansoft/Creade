@@ -6,7 +6,7 @@ Migracion del portal antiguo al portal nuevo
 * Descomprimir el Worpress (wordpress-4.1-es_ES.zip) en el servidor.
 * Descomprimir los temas en wordpress/wp-content/themes (theme-responsive-creade.zip).
 * Descomprimir el Widget de la Agenda/Calendario en wordpress/wp-content/plugins (my-calendar.2.3.28.zip)
-* Copiar los archivos del portal antiguo en wordpress/wp-content/uploads (old_Creade).
+* Copiar los archivos del portal antiguo en wordpress/wp-content/uploads (old_creade.zip). Si la carpeta uploads no existe, se crea.
 
 * En el MySQL crear una nueva BD llamada "datosCreade".
 * En la BD datosCreade ejecutar los SQLs para crear las tablas Creade/paraMySql/creacionTablas.sql
@@ -21,17 +21,15 @@ Migracion del portal antiguo al portal nuevo
 * Acceder al panel de administración del WP en wordpress/wp-admin
 * En el panel de administracion, "Apariencia -> Temas" Selecionamos y activamos el tema "Responsive-child"
 * En el panel de administracion, "Apariencia -> Personalizar -> Portada estática" seleccionamos la opción "Una página estatica" y en "Portada" elegimos "Presentación". Por último clic en "Guardar y Publicar"
-* En el panel de administracion, "Apariencia -> Personalizar -> Imagen de Cabecera" Añadimos las imagenes de cabecera que están en wordpress/wp-content/uploads/oldIntercambia/cabeceras, habrá que selecionarlas una por una y al final elegir que las muestre al azar. Y clic en Guardar y Publicar.
+* En el panel de administracion, "Apariencia -> Personalizar -> Imagen de Cabecera" Añadimos las imagenes de cabecera que están en wordpress/wp-content/uploads/old_creade/cabeceras. Y clic en Guardar y Publicar.
 * En el panel de administracion, "Apariencia -> Opciones del tema -> Scripts personalizados" Pegamos el codigo del GoogleAnalytics que esta en googleAnalytics.js Y hacemos clic en Guardar Opciones.
 * En el panel de administracion, "Apariencia -> Menús" Añadimos un nuevo menu, marcamos la opción de "Menú de la Cabecera" y le incluimos los elementos de:
-* * (Página) Intercambia
-* * (Enlace) Recursos -> #
-* * * (Categoría) Banco de Recursos TIC
-* * * (Categoría) Recursos
-* * * (Página) Estadísticas
+* * (Página) Presentacion
+* * (Categoría) Noticias
+* * (Categoría) Recursos
 * * (Página) Comunidades Autónomas
-* * (Página) Igualdad en el Mundo
-* * (Categoría) Agenda
+* * (Página) Multiculturalismo
+
 * En el panel de administracion, "Apariencia -> Widget" Quitamos el de "Entradas Recientes", "Comentarios recientes", "Archivos" y "Meta"
 * En el panel de administracion, "Plugins" Activamos el plugin de MyCalendar
 * En el panel de administracion, "Apariencia -> Widget" Añadimos el Widget de "My Calendar: Proximos eventos" Con el nombre de "Agenda" y lo configuramos con 10 dias futuros y 2 pasados, bajo el nombre de Agenda. (NOTA para que salga el widget hay que crear al menos un evento)
