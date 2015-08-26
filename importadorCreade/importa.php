@@ -679,8 +679,7 @@ if (isset($_GET['BloqueTexto'])){
     echo "Falta comprobar los archivos, descomprimirlos y ver si hay metadatos.";
 
 } elseif (isset($_GET['PaginasEstaticas'])){
-    //creaPaginasEstaticas($connection);
-    echo "Falta crear las tablas de paginas estaticas";
+    creaPaginasEstaticas($connection);
 
 } elseif (isset($_GET['categorias'])) {
     $res = creaCategoriaOri(1255, $connection);
