@@ -346,11 +346,371 @@ P&aacute;gina web del Ministerio federal de Educaci&oacute;n, Arte y Cultura:<a 
 <br/>
 Informe cualitativo elaborado en el a&ntilde;o 2004 para la UNESCO sobre la situaci&oacute;n del sistema educativo (Base de datos: &ldquo;World data on Education&rdquo;).<a href="http://www.ibe.unesco.org/es/en-el-mundo/regiones-de-la-unesco/europa-y-america-del-norte/austria/profile-of-education.html">http://www.ibe.unesco.org/es/en-el-mundo/regiones-de-la-unesco/europa-y-america-del-norte/austria/profile-of-education.html</a>
 ', 'Multiculturalismo', 'page'),
+(31,	'B&eacute;lgica', 			'
+<h3>Principios y objetivos generales</h3>
+Entre los principios en los que se basa la educaci&oacute;n en B&eacute;lgica y que se plasman en la reforma de la Constituci&oacute;n de 1988, cabe destacar:
+<ul>
+<li>La libertad de ense&ntilde;anza es un derecho constitucional.</li>
+<li>La educaci&oacute;n en sus etapas principales se ofrecer&aacute; gratuitamente.</li>
+<li>Derecho y obligatoriedad a recibir ense&ntilde;anza: esto no significa que todos los alumnos tengan que ir obligatoriamente a la escuela, hay casos especiales de escolarizaci&oacute;n en casa o a distancia. A partir de los 16 a&ntilde;os los alumnos pueden combinar su escolaridad con pr&aacute;cticas laborales en empresas.</li>
+<li>Los centros educativos pueden ser fundados en base a una filosof&iacute;a espec&iacute;fica o sobre determinados principios pedag&oacute;gicos o educativos</li>
+<li>Los padres tienen el derecho a elegir libremente el centro educativo donde matricular a sus hijos/as.</li>
+<li>No existe material did&aacute;ctico reglamentario.</li>
+<li>Principio de coeducaci&oacute;n, por el cual todos los centros escolares deben acoger por igual y sin discriminaci&oacute;n a los chicos y a las chicas.</li>
+</ul>
+<h3>Legislaci&oacute;n educativa</h3>
+La Constituci&oacute;n belga (art&iacute;culo 24) declara que todos los ciudadanos tienen derecho a recibir ense&ntilde;anza de acuerdo con sus creencias. Adem&aacute;s toda persona f&iacute;sica o jur&iacute;dica tiene libertad para crear centros, organizar la ense&ntilde;anza y el derecho a recibir por ello subvenci&oacute;n del Estado si cumple con los requisitos obligatorios exigidos. El Estado no puede tener ning&uacute;n monopolio sobre la ense&ntilde;anza.
+<ul><li>Ley Koordinierte Gesetze &uuml;ber das Primarschulwesen, del 20 de agosto de 1957, y Real Decreto Dekret &uuml;ber das Regelgrundschulwesen, del 26 de Abril de 1999, que regulan la etapa de Educaci&oacute;n Primaria.</li>
+<li>Decreto del 29 de junio de 1984 y Decreto del 16 de diciembre de 2002, que regulan la organizaci&oacute;n y establecen las competencias de la Educaci&oacute;n Secundaria.</li>
+<li>Desde el 1 de enero de 1988, y como se establece en la reforma de la Constituci&oacute;n belga,&nbsp;las competencias sobre la ense&ntilde;anza fueron transferidas a las comunidades.</li>
+<li>Firma del convenio marco para la protecci&oacute;n de las minor&iacute;as nacionales el 31 de julio del 2002, que m&aacute;s tarde se ratifica por la Asamblea Parlamentaria del Consejo de Europa</li>
+</ul>
+Si bien la Constituci&oacute;n establece unos art&iacute;culos que deben aplicarse en todo el territorio federal, cada comunidad aprueba decretos que gestionan y organizan la educaci&oacute;n en sus respectivas regiones:
+<ul><li>Comunidad Flamenca
+	<ul><li>Decreto del 25 de febrero de 1997, sobre la educaci&oacute;n Primaria.</li>
+	<li>Decreto del 13 de junio de 2006, establece el principio de igualdad en la educaci&oacute;n primaria.</li>
+	<li>Decreto del 20 de marzo de 2009, relativo a la entrada de la educaci&oacute;n primaria en la educaci&oacute;n general, y declaraci&oacute;n de compromisos entre los centros escolares y los padres.</li>
+	<li>Decreto del 21 de mayo de 2010, establece la prueba de neerland&eacute;s, y la necesidad de  incorporarla en educaci&oacute;n primaria.</li>
+	</ul></li>
+
+	<li>Comunidad Francesa<ul>
+	<li>Decreto del 31 de marzo de 1994, sobre la neutralidad de la de la educaci&oacute;n.</li>
+	<li>Decreto del 2001, que define los objetivos y estructuras de la educaci&oacute;n primaria y secundaria.</li>
+	<li>El 31 de mayo del 2005, se firma el Contrat pour l&rsquo;&Eacute;coleComunidad Germana- Decreto de 1998, establece las disposiciones generales de car&aacute;cter educativo, y organiza&nbsp;la integraci&oacute;n de la educaci&oacute;n primaria y secundaria.</li>
+	<li>Decreto de 1999, sobre la educaci&oacute;n general b&aacute;sica (preescolar y primaria).</li>
+	<li>Decreto de diciembre de 2002, establece los objetivos y competencias que se deben desarrollar en educaci&oacute;n primaria y secundaria</li>
+	<li>Decreto del 16 de junio de 2008, sustituye al decreto anterior y establece las habilidades b&aacute;sicas que deben consolidarse y las orientaciones curriculares.</li>
+	<li>Decreto de mayo de 2009, sobre la educaci&oacute;n especial.</li>
+	</ul></li>
+</ul>
+<h3>Administraci&oacute;n y gesti&oacute;n del sistema educativo</h3>
+B&eacute;lgica es un estado federal integrado por tres comunidades (la flamenca, la francesa y la germana) que son las responsables del &aacute;mbito cultural, educativo y de servicios sociales; pero tambi&eacute;n se compone de 3 regiones: la regi&oacute;n de Flandes donde se habla neerland&eacute;s; la regi&oacute;n de Valonia donde mayoritariamente se habla franc&eacute;s y donde vive la comunidad de habla germ&aacute;nica; y Bruselas, donde el neerland&eacute;s y el franc&eacute;s son lenguas cooficiales. En B&eacute;lgica la responsabilidad de la educaci&oacute;n recae en el gobierno de las comunidades, por lo tanto, se debe hablar de tres sistemas educativos independientes. El Estado Federal, en la reforma constitucional de 1988 transfiere las competencias, a excepci&oacute;n de tres art&iacute;culos que siguen sometidos a la autoridad federal y que establecen los a&ntilde;os de duraci&oacute;n de la educaci&oacute;n obligatoria, marcan los requisitos m&iacute;nimos comunes de los programas educativos y de las titulaciones que se entregan al final de cada ciclo, y tambi&eacute;n se ocupan de las pensiones de los profesores. Respecto a la financiaci&oacute;n de los centros, las comunidades reciben una dotaci&oacute;n econ&oacute;mica del Estado, adem&aacute;s de contar con mecanismos propios de recaudaci&oacute;n.  En el interior de cada comunidad, y para cada uno de los niveles, existen varios organismos responsables de la ense&ntilde;anza. A estos organismos se les llama Redes Escolares y son ejes aglutinadores de la administraci&oacute;n de la ense&ntilde;anza en el seno de cada comunidad. Estas redes son compartimentos estancos, con sus propios inspectores, sus colectivos de profesores y l&iacute;neas de actuaci&oacute;n distintas. La diferencia entre los centros pertenecientes a una red u otra no es econ&oacute;mica sino ideol&oacute;gica, pues todos est&aacute;n subvencionados con dinero p&uacute;blico.&nbsp;
+<br/>
+La Comunidad Flamenca Gestiona los centros educativos de la regi&oacute;n de Flandes, y aquellos centros de lengua neerlandesa de Bruselas. El Ministerio de Educaci&oacute;n y Formaci&oacute;n flamenco se compone del Departamento de Educaci&oacute;n y Formaci&oacute;n, encabezado por el Secretario General, y 4 agencias (Agencia de Servicios Educativos, la Agencia para la Educaci&oacute;n Superior y Educaci&oacute;n de Adultos; la Agencia de Educaci&oacute;n de la Comunicaci&oacute;n; y la Agencia para la Escuela de Infraestructura) que velan por la aplicaci&oacute;n de las pol&iacute;ticas bajo la direcci&oacute;n de un administrador general. Existe tambi&eacute;n el Consejo de Gobierno, donde tienen lugar las consultas entre el ministro y los principales funcionarios; y el Consejo de Educaci&oacute;n de Flandes que asesora en todos los proyectos y los documentos que se presentar&aacute;n al Parlamento flamenco. El sistema educativo de Flandes se organiza en tres redes principales: &bull; GO!#33;, Flamenco de Educaci&oacute;n Comunitaria (van de Vlaamse onderwijs Gemeenschap), financiado por la Comunidad Flamenca y cuyo cuerpo est&aacute; compuesto por la organizaci&oacute;n de la Junta de Educaci&oacute;n de la Comunidad y los grupos de escolares (formado por las escuelas primarias y secundarias).  &bull; La educaci&oacute;n de ense&ntilde;anza oficial (onderwijs gesubsidieerd Officieel), organizado por las ciudades, municipios y provincias subvencionadas por la Comunidad Flamenca. Los&nbsp;consejos municipales y provinciales son las entidades organizadoras. &bull; La educaci&oacute;n privada subvencionada (onderwijs gesubsidieerd vrij), con m&uacute;ltiples formatos, basada en aspectos religiosos (cat&oacute;lica, jud&iacute;a, protestante) o sobre determinados principios pedag&oacute;gicos o educativos (escuelas alternativas).
+<br/>
+La Comunidad Francesa El Gobierno de la comunidad es quien tiene el poder de la organizaci&oacute;n de la educaci&oacute;n, y como tal establece su estructura, programas, y m&eacute;todos, y quien administra los centros escolares. La comunidad subvenciona los centros, quien para recibir estas cantidades deben cumplir con sus obligaciones: establecer la organizaci&oacute;n de los estudios, la adopci&oacute;n de los ciclos comunes, medidas de seguridad y de higiene, etc. Es la inspecci&oacute;n de la comunidad quien se encarga de controlar a los centros. Por otro lado, existe un servicio de auditor&iacute;a para gestionar el buen uso de las subvenciones. Los Comisarios del Gobierno de la Comunidad Francesa y los inspectores garantizan el cumplimiento de las leyes de financiaci&oacute;n.
+<br/>
+La Comunidad Germana El Parlamento y el Gobierno de la Comunidad Germana son las autoridades de mayor nivel en el &aacute;mbito educativo. Se encargan, respectivamente, del poder legislativo y ejecutivo en cuanto a la gesti&oacute;n y administraci&oacute;n de la educaci&oacute;n. Establecen normas generales para todas las escuelas, de conformidad con las disposiciones constitucionales y legales.  En el caso de las escuelas comunitarias, la autoridad organizadora es el Gobierno de la comunidad, representada por el Ministro de Educaci&oacute;n; mientras que un organismo no p&uacute;blico - en concreto, una asociaci&oacute;n de cat&oacute;licos- es responsable de las escuelas cat&oacute;licas subvencionadas, que son las llamadas escuelas libres (Freie Schulen). Todas las escuelas deben cumplir con los decretos y reglamentos comunitarios relativos, entre otros, a la seguridad y a los est&aacute;ndares de salud, a la obtenci&oacute;n de certificaciones reconocidas oficialmente y las calificaciones, a la estructura escolar y la organizaci&oacute;n curricular, a la adopci&oacute;n de las competencias b&aacute;sicas, los planes marco y los objetivos m&iacute;nimos. Tambi&eacute;n existe la inspecci&oacute;n educativa y la Consejer&iacute;a, que act&uacute;an a trav&eacute;s de todo el sistema escolar y ejecutan las funciones de supervisi&oacute;n acad&eacute;mica y jur&iacute;dica.
+<h3>Estructura del sistema educativo</h3>
+La normativa federal establece la duraci&oacute;n de la educaci&oacute;n obligatoria, sin embargo las comunidades gestionan su organizaci&oacute;n: La Comunidad Flamenca La Educaci&oacute;n Infantil es la primera etapa del sistema educativo (Basisonderwijs), y atiende a ni&ntilde;os entre los 2-3 a&ntilde;os y los 6. Se trata de un nivel claramente diferenciado, es gratuito y no tiene car&aacute;cter obligatorio, a&uacute;n as&iacute; el 99%#37; de todos los ni&ntilde;os de 5 a&ntilde;os asisten. Los ni&ntilde;os que a la edad de 6 a&ntilde;os no est&aacute;n a&uacute;n preparados para pasar a la ense&ntilde;anza primaria pueden permanecer en la educaci&oacute;n pre-primaria un a&ntilde;o m&aacute;s.  La educaci&oacute;n obligatoria abarca un periodo de 12 a&ntilde;os, desde los 6 a los 18 a&ntilde;os. Comprende las etapas de Educaci&oacute;n Primaria y Secundaria (B&aacute;sica, Media y Superior). A tiempo completo la educaci&oacute;n es obligatoria hasta la edad de 16 a&ntilde;os. Los alumnos que hayan superado la fase de secundaria b&aacute;sica pueden optar por la educaci&oacute;n obligatoria a tiempo parcial cuando cumplen los 16 a&ntilde;os de edad. Se organiza a trav&eacute;s de ciclos:
+<ul>
+<li>La Educaci&oacute;n Primaria, que atiende a ni&ntilde;os durante el a&ntilde;o escolar en que cumplen 6 a&ntilde;os de edad y hasta que cumplen los 12 a&ntilde;os.</li>
+<li>La educaci&oacute;n secundaria, se compone de tres etapas con una duraci&oacute;n de dos a&ntilde;os cada una:
+<ol>
+<li>Educaci&oacute;n Secundaria b&aacute;sica (Beobachtungsstufe, Observaci&oacute;n): de los 12 a los 14 a&ntilde;os. A tiempo completo y con la posibilidad de ir orient&aacute;ndose a la formaci&oacute;n profesional.</li>
+<li>Educaci&oacute;n Secundaria Media (Orientierungsstufe, Orientaci&oacute;n): de los 14 a los 16 a&ntilde;os. Existen tres itinerarios: general, t&eacute;cnico y art&iacute;stico. Por otro lado, los alumnos que se decantan por la formaci&oacute;n profesional y dejan la Educaci&oacute;n&nbsp;Secundaria a tiempo completo a la edad de 16 &oacute; 17 a&ntilde;os han de continuar con su educaci&oacute;n obligatoria a tiempo parcial o iniciar un periodo de pr&aacute;cticas o de formaci&oacute;n hasta alcanzar los 18 a&ntilde;os de edad.</li>
+<li>Educaci&oacute;n Secundaria Superior (Bestimmungsstufe, Vocacional): de los 16 a los 18 a&ntilde;os. De similares caracter&iacute;sticas a la etapa anterior, pudiendo realizarse atiempo completo o a tiempo parcial (ense&ntilde;anza secundaria profesional te&oacute;ricay pr&aacute;ctica).</li>
+</ol></li>
+</ul>
+La Comunidad Francesa La Educaci&oacute;n Infantil es gratuita pero no obligatoria. Es un nivel integrado en el continuo educativo que tiene como objetivo afianzar las necesidades b&aacute;sicas necesarias para la vida social y el futuro desarrollo de los estudios. Abarca un periodo de 4 a&ntilde;os, de los 2 a los 6 a&ntilde;os, y aunque no es obligatorio casi la totalidad de los ni&ntilde;os y ni&ntilde;as de estas edades acuden a los centros infantiles.  La Educaci&oacute;n Obligatoria comprende de los 6 a los 18 a&ntilde;os, aunque a partir de los 16 a&ntilde;os se permite seguir estudiando a tiempo parcial. Es gratuito, y se compone de dos etapas principales:
+<ul>
+<li>La educaci&oacute;n primaria: De los 6 a los 12 a&ntilde;os. Se divide en ciclos de dos a&ntilde;os. Unavez finalizada la educaci&oacute;n primaria se obtiene el Certificado de estudios de base (Certificat d&rsquo;&eacute;tudes de base, CEB), necesario para acceder a la educaci&oacute;n secundaria.</li>
+<li>La educaci&oacute;n secundaria: De los 13 a los 16 &oacute; 18 a&ntilde;os. Se compone de tresciclos&nbsp;de dos a&ntilde;os de duraci&oacute;n cada uno:
+<ol>
+<li>Educaci&oacute;n Secundaria b&aacute;sica: El primer ciclo es com&uacute;n a todo el alumnado.</li>
+<li>Educaci&oacute;n Secundaria Media: Aparecen las siguientes especializaciones: educaci&oacute;n general, t&eacute;cnica, art&iacute;stica &oacute; profesional. Una vez terminado este ciclo&nbsp;se obtiene el certificado de educaci&oacute;n secundaria de segundo grado (Certificat d&rsquo;enseignement secondaire du deuxi&egrave;me degr&eacute;, CES2D).</li>
+<li>Educaci&oacute;n Secundaria Superior: Quienes se decantan por la educaci&oacute;n general o t&eacute;cnica, al terminar el sexto curso reciben el certificado de educaci&oacute;n secundaria superior (Certificat d&rsquo;enseignement secondaire sup&eacute;rieur, CESS); y quienes se dirigen a la rama profesional, reciben el certificado profesional, adem&aacute;s de tener la posibilidad de estudiar a tiempo parcial en los dos o tres &uacute;ltimos a&ntilde;os, para compaginar los estudios con el ejercicio de un empleo.</li>
+</li>
+</ul>
+Comunidad Germana La educaci&oacute;n infantil, de los 3 a los 6 a&ntilde;os, es gratuita y no obligatoria, aunque la mayor parte de los ni&ntilde;os y ni&ntilde;as con estas edades asisten a los centros infantiles. no es obligatoria y es gratuita. La mayor parte de los ni&ntilde;os y ni&ntilde;as con estas edades asisten a los centros infantiles. La educaci&oacute;n obligatoria tiene una duraci&oacute;n de 12 a&ntilde;os, desde los 6 hasta los 18 a&ntilde;os. No obstante, a partir de los 16 a&ntilde;os sigue siendo obligatoria aunque con la posibilidad de cursar a tiempo parcial. La educaci&oacute;n obligatoria es gratuita y se clasifica en dos grandes m&oacute;dulos:
+<ul>
+<li>La educaci&oacute;n primaria: De los 6 a los 11 a&ntilde;os. Se divide en distintos ciclos de dos a&ntilde;os cada uno.</li>
+<li>La educaci&oacute;n secundaria: De los 12 a los 16 &oacute; 18 a&ntilde;os. Incluye tres ciclos de dos a&ntilde;os cada uno:
+<ol>
+<li>Educaci&oacute;n Secundaria b&aacute;sica: La primera etapa es com&uacute;n a todo el alumnado.</li>
+<li>Educaci&oacute;n Secundaria Media: A partir del segundo ciclo existen las siguientes especializaciones: v&iacute;a general, t&eacute;cnica &oacute; profesional.</li>
+<li>Educaci&oacute;n Secundaria Superior: Tras finalizar los tres ciclos se obtiene el Certificado final de Educaci&oacute;n Secundaria. En el caso de la v&iacute;a profesional, este certificado se obtiene al finalizar un s&eacute;ptimo curso. En la v&iacute;a profesional a&nbsp;partir de los 16 a&ntilde;os se puede cursar a tiempo parcial puesto que se complementa con un trabajo.</li>
+</ol></li>
+</ul>
+<h3>Tratamiento de la diversidad</h3>
+En la Comunidad Flamenca existen programas espec&iacute;ficos para favorecer la integraci&oacute;n del alumnado extranjero con desconocimiento del neerland&eacute;s:
+<ul>
+<li>La primera acogida del nuevo alumnado constituye uno de los ejes centrales de la pol&iacute;tica de los centros escolares para la integraci&oacute;n de los ni&ntilde;os y ni&ntilde;as migrados. Se plasma en el programa de acogida para los reci&eacute;n llegados que no hablan neerland&eacute;s (onthaalonderwijs voor anderstalige nieuwkomers - OKAN). Durante el a&ntilde;o 2008, OKAN se ha ampliado e implica dos a&ntilde;os de docencia y un apoyo extra.</li>
+<li>El Plan de Estudios de Bruselas establece la ense&ntilde;anza de idiomas adicionales en la primera etapa de la educaci&oacute;n secundaria neerlandesa en Bruselas.</li>
+<li>Medidas adicionales de apoyo en las escuelas primarias de habla neerlandesa de los municipios perif&eacute;ricos de Bruselas para la integraci&oacute;n de los ni&ntilde;os que no hablan neerland&eacute;s.</li>
+<li>Se asignan periodos adicionales de estudio en la educaci&oacute;n primaria y secundaria.</li>
+</ul>
+<h3>El proceso de reforma de la educaci&oacute;n en B&eacute;lgica</h3>
+La Comunidad Flamenca Fuentes &uacute;tiles de informaci&oacute;n a este respecto son el plan de Educaci&oacute;n y Capacitaci&oacute;n Pol&iacute;tica 2008-2009, la Carta del ministro flamenco de Educaci&oacute;n y Formaci&oacute;n, los boletines publicados en la web del Ministerio y la base de datos Edulex que cuenta con todas las leyes y reglamentos vigentes.  Las prioridades de la carta del ministro flamenco de Educaci&oacute;n y Formaci&oacute;n son: una nueva financiaci&oacute;n p&uacute;blico-privada para hacer frente a los costes de las infraestructuras educativas; la promoci&oacute;n de la educaci&oacute;n orientada a la igualdad de oportunidades y de fomento de valores democr&aacute;ticos, realizaci&oacute;n de evaluaciones sistem&aacute;ticas a las instituciones educativas, la colaboraci&oacute;n entre las escuelas y los padres, impulso de una pol&iacute;tica de fomento de idiomas en todas las escuelas y para todo el alumnado con promoci&oacute;n especial del neerland&eacute;s, la organizaci&oacute;n de grupos de alumnos m&aacute;s reducidos y la creaci&oacute;n de una formaci&oacute;n profesional superior para el sistema educativo.
+<br/>
+La Comunidad Francesa La nueva orientaci&oacute;n educativa propuesta por el Gobierno de la Comunidad Francesa se plasma en el Contrat pour l&rsquo;&Eacute;cole, que guiar&aacute; el proceso educativo. Sus principales objetivos son: aumentar la calidad educativa, fomentar la diversidad social y cultural, promover la igualdad de oportunidades, etc.). Sus prioridades son:
+<ul>
+<li>Aumentar el n&uacute;mero de profesorado y su formaci&oacute;n</li>
+<li>Elegir y aprender un oficio o profesi&oacute;n</li>
+<li>Dotar al alumnado de mecanismos de saber</li>
+<li>Promover la educaci&oacute;n inclusiva</li>
+<li>Reforzar el di&aacute;logo entre familias y centros educativos</li>
+</ul>
+La Comunidad Germana Teniendo en cuenta las reformas establecidas en el resto de Comunidades y pa&iacute;ses vecinos, la Comunidad Germana inici&oacute; una reforma educativa en 1998 que finalizar&aacute; en el 2010 y que afecta a todos los ciclos educativos (desde infantil hasta la educaci&oacute;n superior). Una vez regulada la educaci&oacute;n primaria, se espera que durante el a&ntilde;o 2010 se presente un decreto en el Parlamento que fije las capacidades generales, las orientaciones curriculares y los objetivos en la segunda etapa y la tercera de la educaci&oacute;n secundaria (y para las tres v&iacute;as: general, t&eacute;cnica o profesional).&nbsp;
+<h3>Fuentes de informaci&oacute;n</h3>
+Informe cualitativo elaborado en el a&ntilde;o 2007 para la UNESCO sobre la situaci&oacute;n del sistema educativo (Base de datos: &quot;World data on Education&quot;).<a href="http://www.ibe.unesco.org/es/en-el-mundo/regiones-de-la-unesco/europa-y-america-del-norte/belgica/profile-on-education.html">http://www.ibe.unesco.org/es/en-el-mundo/regiones-de-la-unesco/europa-y-america-del-norte/belgica/profile-on-education.html</a>
+<br/>
+Publicaci&oacute;n sobre &ldquo;La ense&ntilde;anza del espa&ntilde;ol en B&eacute;lgica&rdquo;, septiembre 2002. Ofrecido por el MINISTERIO DE EDUCACI&Oacute;N, CULTURA Y DEPORTE.<a href="http://www.educacion.gob.es/dctm/ministerio/educacion/actividad-internacional/consejerias/belgica/oficinas-centros-/bel.2.1.1.01espbe.pdf&#63;documentId=0901e72b8009220b">http://www.educacion.gob.es/dctm/ministerio/educacion/actividad-internacional/consejerias/belgica/oficinas-centros-/bel.2.1.1.01espbe.pdf&#63;documentId=0901e72b8009220b</a>
+<br/>
+Para obtener una informaci&oacute;n m&aacute;s amplia del sistema educativo de B&eacute;lgica (Comunidad Flamenca) consulte la EURYPEDIA de EURYDICE.<a href="https://webgate.ec.europa.eu/fpfis/mwikis/eurydice/index.php/Belgium-Flemish-Community:Overview">https://webgate.ec.europa.eu/fpfis/mwikis/eurydice/index.php/Belgium-Flemish-Community:Overview</a>
+<br/>
+Para m&aacute;s informaci&oacute;n sobre el sistema educativo de B&eacute;lgica (Comunidad francesa) consulte EURYPEDIA de EURYDICE.<a href="https://webgate.ec.europa.eu/fpfis/mwikis/eurydice/index.php/Belgium-French-Community:Overview">https://webgate.ec.europa.eu/fpfis/mwikis/eurydice/index.php/Belgium-French-Community:Overview</a>
+<br/>
+Para m&aacute;s informaci&oacute;n sobre el sistema educativo de B&eacute;lgica (Comunidad alemana) consulte EURYPEDIA de EURYDICE.<a href="https://webgate.ec.europa.eu/fpfis/mwikis/eurydice/index.php/Belgium-German-Speaking-Community:Overview">https://webgate.ec.europa.eu/fpfis/mwikis/eurydice/index.php/Belgium-German-Speaking-Community:Overview</a>
+', 'Multiculturalismo', 'page'),
+(32,	'Bolivia', 			'
+<h3>Principios generales </h3>
+Las bases de la educaci&oacute;n boliviana son las siguientes:
+<ul>
+<li>Es la m&aacute;s alta funci&oacute;n del Estado porque es un derecho humano fundamental; por tanto, tiene la obligaci&oacute;n de sostenerla, garantizarla, regularla y ejercer tuici&oacute;n a trav&eacute;s del Sistema Educativo Plurinacional.</li>
+<li>Es descolonizadora, liberadora, antiimperialista, antiglobalizante, revolucionaria y transformadora de las estructuras econ&oacute;micas, sociales, culturales, pol&iacute;ticas e ideol&oacute;gicas; orientada a la autodeterminaci&oacute;n y reafirmaci&oacute;n de los pueblos, naciones ind&iacute;genas originarias, afroboliviano y dem&aacute;s expresiones culturales del Estado Plurinacional boliviano.</li>
+<li>Es comunitaria, democr&aacute;tica participativa y de consensos para la toma de decisiones en la gesti&oacute;n de pol&iacute;ticas educativas p&uacute;blicas dentro del marco de la unidad en la diversidad.</li>
+<li>Es integradora del territorio; reafirma el derecho de Bolivia a un acceso propio y libre al Oc&eacute;ano Pac&iacute;fico. Busca la seguridad, defensa y desarrollo integrando las expresiones del poder pol&iacute;tico, econ&oacute;mico, social, cultural y militar del Estado Plurinacional.</li>
+<li>Es laica, pluralista y espiritual porque respeta la espiritualidad de cada cultura y la libertad de creencias religiosas, promueve los valores propios y rechaza todo tipo de imposici&oacute;n dogm&aacute;tica religiosa.</li>
+<li>Es universal, &uacute;nica y diversa. Universal porque atiende a todos los habitantes del Estado Plurinacional. &Uacute;nica en cuanto a calidad y contenido curricular b&aacute;sico. Diversa en su aplicaci&oacute;n y pertinencia a cada contexto geogr&aacute;fico, social, cultural y ling&uuml;&iacute;stico.</li>
+<li>Es fiscal y gratuita en todo el Sistema Educativo y obligatoria en los diferentes niveles y modalidades del subsistema de educaci&oacute;n regular, con igualdad de oportunidades sin discriminaci&oacute;n social, cultural, ling&uuml;&iacute;stica ni econ&oacute;mica.</li>
+<li>Es intracultural, intercultural y pluriling&uuml;e porque articula un Sistema Educativo Plurinacional desde el potenciamiento de los saberes, conocimientos y la lengua propia de las naciones ind&iacute;genas originarias; porque promueve la interrelaci&oacute;n y convivencia en igualdad de oportunidades a trav&eacute;s de la valoraci&oacute;n y respeto rec&iacute;proco entre las culturas del Estado Plurinacional y del mundo.</li>
+<li>Es productiva y territorial, orientada al trabajo y desarrollo sostenible que garantice procesos de producci&oacute;n, conservaci&oacute;n, manejo y defensa de todos los recursos naturales, fortaleciendo la gesti&oacute;n y control territorial de los pueblos, naciones ind&iacute;genas originarias y afroboliviano.</li>
+<li>Es cient&iacute;fica, t&eacute;cnica, tecnol&oacute;gica y art&iacute;stica, porque desarrolla los conocimientos y sabidur&iacute;a desde la cosmovisi&oacute;n de las culturas milenarias en complementariedad con los avances de la ciencia y la tecnolog&iacute;a, para contribuir al desarrollo integral de la humanidad.</li>
+<li>Es una educaci&oacute;n en la vida y para la vida, porque interpreta las exigencias vitales del Estado Plurinacional en sus diversas zonas ecol&oacute;gicas, propicia una sociedad de unidad, de equilibrio entre el ser humano y la naturaleza en lo individual y colectivo, para vivir bien en comunidad.</li>
+</ul>
+Los fines de la educaci&oacute;n boliviana son:
+<ul>
+<li>Consolidar una educaci&oacute;n descolonizada y antiglobalizante como instrumento para garantizar un Estado Plurinacional y una sociedad digna, soberana y productiva.</li>
+<li>Reafirmar la dignidad, la unidad e integridad territorial, la soberan&iacute;a, la reivindicaci&oacute;n y conciencia mar&iacute;tima del Estado Plurinacional.</li>
+<li>Garantizar la participaci&oacute;n plena de los pueblos y naciones ind&iacute;genas originarias, organizaciones sociales e instituciones del Estado Plurinacional en la educaci&oacute;n.</li>
+<li>Desarrollar principios de solidaridad y unidad internacional entre los pueblos que luchan por su soberan&iacute;a econ&oacute;mica, social, cultural y pol&iacute;tica frente a las pol&iacute;ticas de globalizaci&oacute;n.</li>
+<li>Promover la amplia reciprocidad y solidaridad entre las naciones ind&iacute;genas originarias y afroboliviano que luchan por la construcci&oacute;n de su unidad en el &aacute;mbito continental y mundial.</li>
+<li>Desarrollar una educaci&oacute;n laica y pluralista que permita el conocimiento de historias religiosas universales, la espiritualidad de las naciones ind&iacute;genas originarias y del pueblo boliviano y respete las creencias como base del derecho individual y comunitario.</li>
+<li>Consolidar, potenciar y proyectar la identidad cultural de cada pueblo y naci&oacute;n ind&iacute;gena originaria, afroboliviano y otros sectores sociales, a partir de la ciencia, la t&eacute;cnica, el arte y la tecnolog&iacute;a propia, en complementaci&oacute;n con el conocimiento universal en la perspectiva de lograr la autoafirmaci&oacute;n y autodeterminaci&oacute;n del Estado Plurinacional boliviano.</li>
+<li>Desarrollar la intraculturalidad, interculturalidad y el pluriling&uuml;ismo para la realizaci&oacute;n plena e &iacute;ntegra del ser humano y la conformaci&oacute;n de una sociedad arm&oacute;nica.</li>
+<li>Desarrollar la conciencia de convivencia equilibrada del ser humano con la naturaleza, frente a toda acci&oacute;n depredadora de agentes internos y externos.</li>
+<li>Desarrollar una educaci&oacute;n productiva, pr&aacute;cticate&oacute;rica para generar procesos de producci&oacute;n propios, como factores de una formaci&oacute;n integral de hombres y mujeres creativos, emprendedores, comprometidos, con vocaci&oacute;n de servicio a la comunidad y al Estado Plurinacional.</li>
+<li>Formar integral y equitativamente a los habitantes del Estado Plurinacional en funci&oacute;n de sus necesidades mediante el desarrollo armonioso de todas las potencialidades y capacidades, valorando y respetando las diferencias y semejanzas.</li>
+<li>Desarrollar una educaci&oacute;n cient&iacute;fica, human&iacute;stica, t&eacute;cnicatecnol&oacute;gica, cultural, art&iacute;stica y deportiva; a partir de saberes y conocimientos propios, vinculados a la cosmovisi&oacute;n de los pueblos, fomentando la investigaci&oacute;n cient&iacute;fica en complementariedad con los avances de la ciencia y la tecnolog&iacute;a en todos los niveles del Sistema Educativo Plurinacional.</li>
+</ul>
+Los objetivos de la educaci&oacute;n boliviana son:
+<ul>
+<li>Promover la unidad del Estado Plurinacional boliviano respetando la diversidad en funci&oacute;n de la independencia econ&oacute;mica, soberan&iacute;a pol&iacute;tica y cultural frente al proceso de globalizaci&oacute;n.</li>
+<li>Consolidar el Sistema Educativo Plurinacional con la directa participaci&oacute;n de las organizaciones sociales, sindicales, populares, instituciones, naciones ind&iacute;genas originarias y afroboliviano en la formulaci&oacute;n de pol&iacute;ticas, planificaci&oacute;n, organizaci&oacute;n, seguimiento y evaluaci&oacute;n del proceso educativo.</li>
+<li>Contribuir al poder del Estado Plurinacional boliviano a trav&eacute;s del potenciamiento de su seguridad, defensa y desarrollo.</li>
+<li>Formar personas con identidad, conscientes de la diversidad territorial, social y cultural del pa&iacute;s para lograr la cohesi&oacute;n del Estado Plurinacional.</li>
+<li>Cultivar y fortalecer los valores &eacute;ticos, morales y est&eacute;ticos basados en la vida comunitaria con la pr&aacute;ctica de la complementariedad y reciprocidad.</li>
+<li>Fomentar el respeto a los derechos humanos de los ni&ntilde;os, ni&ntilde;as, adolescentes, hombres, mujeres y del adulto mayor en todos los &aacute;mbitos de la educaci&oacute;n.</li>
+<li>Desarrollar una conciencia integradora y equilibrada entre el ser humano y la naturaleza.</li>
+<li>Formular e implementar programas sociales espec&iacute;ficos de apoyo en alimentaci&oacute;n, hospedaje en familia, internados, transporte estudiantil que garanticen una educaci&oacute;n con igualdad de oportunidades, priorizando las &aacute;reas rurales y regiones fronterizas del pa&iacute;s.</li>
+<li>Formar y cultivar una conciencia productiva comunitaria, ecol&oacute;gica fomentando la producci&oacute;n y consumo de productos naturales para vivir bien.</li>
+<li>Desmercantilizar la educaci&oacute;n en todo el Sistema Educativo Plurinacional, en contraposici&oacute;n a la pol&iacute;tica educativa de lucro impuesta por el neoliberalismo.</li>
+<li>Atender las necesidades de formaci&oacute;n educativa integral sin discriminaci&oacute;n alguna, desarrollando potencialidades y capacidades f&iacute;sicas, intelectuales, afectivas, culturales, art&iacute;sticas, deportivas, creativas y espirituales.</li>
+<li>Desarrollar pol&iacute;ticas educativas de formaci&oacute;n permanente y actualizaci&oacute;n, en todos los niveles del Sistema Educativo Plurinacional.</li>
+<li>Formular pol&iacute;ticas educativas de diagn&oacute;stico y tratamiento de personas con necesidades educativas especiales y sensibilizar a la sociedad sobre su atenci&oacute;n sin discriminaci&oacute;n.</li>
+<li>Universalizar los saberes y conocimientos propios para el desarrollo de una educaci&oacute;n desde las identidades culturales.</li>
+<li>Desarrollar planes y programas educativos pertinentes a las caracter&iacute;sticas de cada contexto sociocultural, ecol&oacute;gico y geogr&aacute;fico, sobre la base de contenidos curriculares b&aacute;sicos en el marco de los procesos de interculturalidad.</li>
+<li>Establecer procesos de articulaci&oacute;n y secuencialidad de los contenidos program&aacute;ticos desde la educaci&oacute;n en familia comunitaria hasta la educaci&oacute;n superior de formaci&oacute;n profesional.</li>
+<li>Desarrollar procesos permanentes de alfabetizaci&oacute;n integral de car&aacute;cter intracultural, intercultural y pluriling&uuml;e con espacios que permitan la continuidad de formaci&oacute;n superior profesional.</li>
+<li>Desarrollar una educaci&oacute;n Plurinacional que con soberan&iacute;a tome en cuenta par&aacute;metros internacionales de acreditaci&oacute;n.</li>
+<li>Desarrollar una educaci&oacute;n cient&iacute;fica human&iacute;stica, t&eacute;cnicatecnol&oacute;gica, cultural art&iacute;stica y deportiva.</li>
+<li>Promover la investigaci&oacute;n cient&iacute;fica en todo el Sistema Educativo Plurinacional.</li>
+</ul>
+<h3>Legislaci&oacute;n educativa </h3>
+Nueva Ley de Educaci&oacute;n Boliviana &ldquo;Avelino Si&ntilde;ani Elizardo&quot;.Proyecto de Ley, septiembre de 2006.<a href="http://www.minedu.gov.bo/minedu/nley/nuevaley14sept.pdf">http://www.minedu.gov.bo/minedu/nley/nuevaley14sept.pdf</a>
+<h3>Administraci&oacute;n y gesti&oacute;n del sistema educativo </h3>
+La Administraci&oacute;n educativa es la instancia que organiza y establece responsabilidad de la administraci&oacute;n y gesti&oacute;n educativa curricular del Sistema Educativo Plurinacional boliviano coadyuvado con el apoyo t&eacute;cnico de recursos y servicios.El Ministerio de Educaci&oacute;n y Culturas, a trav&eacute;s de la administraci&oacute;n y gesti&oacute;n de la educaci&oacute;n, tiene tuici&oacute;n exclusiva sobre todo el Sistema Educativo Plurinacional.Las prefecturas y municipios apoyan a la gesti&oacute;n de infraestructura y equipamiento en todos los subsistemas de educaci&oacute;n en el marco de la presente Ley.Los principios de administraci&oacute;n y gesti&oacute;n de la educaci&oacute;n son los siguientes:
+<ul>
+<li>Es participativa y comunitaria en todo el Sistema Educativo, respetando las competencias espec&iacute;ficas de los distintos actores de la educaci&oacute;n.</li>
+<li>Es horizontal en la toma de decisiones en el marco de las normas y atribuciones fijadas por Ley para cada nivel y &aacute;mbito del Sistema Educativo.</li>
+<li>Es equitativa y complementaria, entre el campo y la ciudad, entre el centro y la periferia, entre las diferentes culturas; superando todo tipo de asimetr&iacute;as y enfoques homogeneizadores.</li>
+<li>Es transparente y vela por la legalidad en el desarrollo de sus funciones y atribuciones.</li>
+<li>Es congruente con la gesti&oacute;n organizativa de las comunidades de diferentes culturas.</li>
+</ul>
+Son objetivos de la administraci&oacute;n y gesti&oacute;n de la educaci&oacute;n:
+<ul>
+<li>Lograr el buen funcionamiento del Sistema Educativo Plurinacional boliviano.</li>
+<li>Planificar, organizar, monitorear y evaluar el proceso educativo en todos los subsistemas, niveles y modalidades con participaci&oacute;n social.</li>
+<li>Generar ambientes propicios y condiciones favorables de relaci&oacute;n intercultural para que todos los actores de la educaci&oacute;n cumplan y desempe&ntilde;en su rol con eficiencia.</li>
+<li>Garantizar la provisi&oacute;n de personal cualificado, infraestructura, recursos financieros y materiales de acuerdo a necesidades de cada regi&oacute;n.</li>
+<li>Promover la participaci&oacute;n social, a trav&eacute;s de sus mecanismos propios en todo el Sistema Educativo Plurinacional.</li>
+<li>Establecer la relaci&oacute;n y coordinaci&oacute;n, al interior del Sistema Educativo, intersectorial e interinstitucional.</li>
+</ul>
+Los mecanismos de la gesti&oacute;n educativa se crean considerando los criterios de: &aacute;rea geogr&aacute;fica, piso ecol&oacute;gico, sociocultural, territorial, hist&oacute;rico y ling&uuml;&iacute;stico y responden a las necesidades e intereses de cada contexto.La estructura administrativa de gesti&oacute;n de la educaci&oacute;n comprende:
+<ul>
+<li>Ministerio de Educaci&oacute;n y Culturas</li>
+<li>Direcciones Generales de Educaci&oacute;n Pluricultural</li>
+<li>Direcciones Regionales de Educaci&oacute;n</li>
+<li>Direcciones de Zona</li>
+<li>Direcciones de N&uacute;cleo</li>
+<li>Direcciones de Unidades Educativas.</li>
+</ul>
+Las competencias de esta estructura de gesti&oacute;n educativa abarcan todos los subsistemas del Sistema Educativo Plurinacional.La desconcentraci&oacute;n de la educaci&oacute;n se da bajo la tuici&oacute;n del Ministerio de Educaci&oacute;n y Culturas en lo administrativo y econ&oacute;mico en programas espec&iacute;ficos, de acuerdo a las necesidades de cada contexto.El Apoyo t&eacute;cnico de recursos y servicios es parte sustancial de las estructuras de administraci&oacute;n y gesti&oacute;n de la educaci&oacute;n y organizaci&oacute;n curricular, y atiende los requerimientos t&eacute;cnicos del Sistema Educativo, para la organizaci&oacute;n y funcionamiento de las diversas unidades de apoyo y de servicios.El apoyo t&eacute;cnico de recursos y servicios tiene los siguientes principios:
+<ul>
+<li>Es estructural y se implementa en funci&oacute;n de los objetivos del curr&iacute;culo.</li>
+<li>Es integral, organizada por funciones de los subsistemas, niveles, modalidades y &aacute;mbitos para favorecer la coherencia en la aplicaci&oacute;n del curr&iacute;culo.</li>
+<li>Incorpora las adecuaciones correspondientes de acuerdo a las caracter&iacute;sticas y funciones de la estructura del nivel nacional, regional, zonal y nuclear.</li>
+<li>Es coherente y funcional con las directivas de la gesti&oacute;n y administraci&oacute;n del Sistema Educativo.</li>
+<li>Es &aacute;gil y oportuno porque evita cualquier forma de burocratismo y desfase institucional.</li>
+</ul>
+Son objetivos de Apoyo T&eacute;cnico, Recursos y Servicios:
+<ul>
+<li>Brindar apoyo t&eacute;cnico oportuno y de calidad a las autoridades administrativas y personal docente del sistema, de la jerarqu&iacute;a y la funci&oacute;n directiva.</li>
+<li>Potenciar la capacidad t&eacute;cnica del Sistema Educativo con personal de &oacute;ptimo nivel y amplia experiencia profesional, con conocimiento y compromiso de la realidad sociocultural del Estado.</li>
+<li>Administrar e implementar t&eacute;cnicamente recursos curriculares, did&aacute;cticos, de infraestructura, equipamiento y financieros, en coordinaci&oacute;n con las autoridades correspondientes.La Estructura de Apoyo T&eacute;cnico, Recursos y Servicios, abarca los siguientes niveles: direcciones generales, regionales, zonales, nucleares y unidades educativas. La estructura, cuenta con un sistema de informaci&oacute;n apropiado.El Instituto de investigaciones educativas y pedag&oacute;gicas es un &oacute;rgano dependiente del Ministerio de Educaci&oacute;n y Culturas, para desarrollar estrategias de apoyo a las pol&iacute;ticas de transformaci&oacute;n del Sistema Educativo Plurinacional.El Sistema Educativo cuenta con financiamiento del Tesoro General de la Naci&oacute;n, los ingresos municipales, prefecturales y los ingresos de impuestos a los hidrocarburos (IDH).Las Escuelas Superiores de Formaci&oacute;n de Maestros y Universidad Pedag&oacute;gica de postgrado, est&aacute;n regidos por:
+<ul>
+<li>El Consejo Nacional de Escuelas Superiores de Formaci&oacute;n de Maestros, bajo tuici&oacute;n del Ministerio de Educaci&oacute;n y Culturas, tiene car&aacute;cter pol&iacute;tico institucional de acuerdo a los mecanismos de participaci&oacute;n a nivel nacional. La composici&oacute;n, funciones y atribuciones del Consejo se establecen en un reglamento espec&iacute;fico.</li>
+<li>Los Consejos Regionales de Escuelas Superiores de Formaci&oacute;n de Maestros tienen car&aacute;cter acad&eacute;mico y son dependientes del Concejo Nacional de Escuelas Superiores de Formaci&oacute;n de Maestros, encargados de regular la oferta de las carreras a trav&eacute;s de un diagn&oacute;stico de necesidades y demandas.</li>
+</ul>
+</li>
+</ul>
+El Consejo Acad&eacute;mico Nacional de Educaci&oacute;n Superior (CANES) es una instancia de alto nivel de coordinaci&oacute;n y fiscalizaci&oacute;n permanente a las instituciones de educaci&oacute;n superior.Cumple las funciones de fiscalizar, evaluar y acreditar la educaci&oacute;n superior y est&aacute; conformada por representantes del:
+<ul>
+<li>Ministerio de Educaci&oacute;n y Culturas</li>
+<li>Universidad p&uacute;blica y privada</li>
+<li>Universidad militar</li>
+<li>Universidad policial</li>
+<li>Institutos t&eacute;cnicos tecnol&oacute;gicos p&uacute;blicos y privados</li>
+</ul>
+Los representantes del Consejo Acad&eacute;mico Nacional de Educaci&oacute;n Superior son acreditados por sus instituciones de acuerdo a sus propias formas de elecci&oacute;n y tendr&aacute;n una duraci&oacute;n de no mayor a cuatro a&ntilde;os, no reelegibles para la siguiente gesti&oacute;n. La presidencia del directorio del CANES ser&aacute; rotativa y tendr&aacute; una duraci&oacute;n de dos a&ntilde;os.Los Consejos Sociales constituyen una instancia de vinculaci&oacute;n y proposici&oacute;n de pol&iacute;ticas universitarias entre la comunidad, la universidad y las organizaciones sociales.La Participaci&oacute;n Comunitaria Popular es la estructura de participaci&oacute;n de los actores de la educaci&oacute;n, orientada a coadyuvar en la gesti&oacute;n del proceso educativo.Los principios de la participaci&oacute;n comunitaria popular son:
+<ul>
+<li>Poder de decisi&oacute;n en el proceso educativo en todo el Sistema Educativo Plurinacional, de acuerdo a reglamentaci&oacute;n.</li>
+<li>Corresponsabilidad de todos los sectores y estamentos de la poblaci&oacute;n en la conducci&oacute;n de la educaci&oacute;n, recayendo en el Estado la responsabilidad de financiarla, sostenerla y controlarla en todos los niveles del Sistema Educativo.</li>
+<li>Respeto a las competencias espec&iacute;ficas: administrativojer&aacute;rquico, t&eacute;cnicodocente,educativoestudiantil, institucionalcomunitario popular.</li>
+<li>Car&aacute;cter democratizador, involucra a todos los actores e instancias de la participaci&oacute;n en la gesti&oacute;n educativa.</li>
+<li>Esp&iacute;ritu consensuador en la b&uacute;squeda de acuerdos y coincidencias entre los diferentes actores de la educaci&oacute;n.</li>
+<li>Vocaci&oacute;n de servicio, compromiso, reciprocidad y solidaridad que involucra a todos a afirmar la acci&oacute;n educativa con iniciativa y esfuerzo. Elimina todo tipo de agresi&oacute;n entre los actores de la educaci&oacute;n.</li>
+<li>Respeto a las identidades culturales y sus organizaciones para fortalecer el proceso de descolonizaci&oacute;n y afianzar el car&aacute;cter Plurinacional, pluricultural y pluriling&uuml;e del Estado.</li>
+<li>Legitimidad y representatividad de los actores en la participaci&oacute;n comunitaria popular, evitando cualquier forma de suplantaci&oacute;n arbitraria.</li>
+<li>Territorialidad, que delimite claramente el &aacute;mbito geogr&aacute;fico de participaci&oacute;n en el Estado Plurinacional.</li>
+</ul>
+Son objetivos de la Participaci&oacute;n Comunitaria Popular:
+<ul>
+<li>Participar en la formulaci&oacute;n y definici&oacute;n de pol&iacute;ticas educativas en todo el Sistema Educativo, tomando en cuenta las prioridades del Estado Plurinacional boliviano.</li>
+<li>Participar en la planificaci&oacute;n, organizaci&oacute;n, ejecuci&oacute;n, seguimiento y evaluaci&oacute;n del proceso educativo, respetando las competencias espec&iacute;ficas de los actores.</li>
+<li>Promover la articulaci&oacute;n y el consenso entre los distintos actores de la educaci&oacute;n en relaci&oacute;n a las pol&iacute;ticas educativas, planes, programas y proyectos.</li>
+<li>Lograr la igualdad de oportunidades educativas, atendiendo de manera obligatoria y preferente a los sectores menos favorecidos y excluidos en todo el Sistema Educativo.</li>
+<li>Contribuir a la calidad de la educaci&oacute;n, haci&eacute;ndola pertinente a las caracter&iacute;sticas socioculturales del Estado Plurinacional boliviano.</li>
+<li>Contribuir al logro de la eficiencia administrativa a trav&eacute;s de un control comunitario para optimizar el funcionamiento del Sistema Educativo Plurinacional.</li>
+</ul>
+Los mecanismos de participaci&oacute;n comunitaria y popular en la educaci&oacute;n, est&aacute;n conformados por los actores b&aacute;sicos del proceso educativo que son: los estudiantes, los docentes y padres de familia representados por sus organizaciones leg&iacute;timamente constituidas y las organizaciones comunitarias y populares de territorio existentes en el &aacute;rea de influencia del centro educativo y act&uacute;an de acuerdo a los objetivos previstos. Estos son:
+<ul>
+<li>Los Concejos Comunitarios de Unidad Educativa: Su funci&oacute;n es participar en la gesti&oacute;n del proceso educativo de la unidad educativa respectiva.</li>
+<li>Los Concejos Educativos Comunitarios de N&uacute;cleo: Su funci&oacute;n es participar en la gesti&oacute;n educativa del N&uacute;cleo.</li>
+<li>Los Concejos Educativos Comunitarios Zonales: Su funci&oacute;n es participar en la gesti&oacute;n educativa zonal.</li>
+<li>Concejos Educativos Comunitarios Regionales: Su funci&oacute;n es participar en la gesti&oacute;n del proceso educativo a nivel regional, en correspondencia con las pol&iacute;ticas educativas Plurinacionales.</li>
+<li>Los Concejos Educativos de Pueblos Originarios: Tienen car&aacute;cter nacional y transterritorial, est&aacute;n organizados en cada naci&oacute;n ind&iacute;gena originaria: Aymara, Quechua, Guaran&iacute;, Guarayo, Chiquitano, Moje&ntilde;o, Uru, Amaz&oacute;nico multi&eacute;tnico, Afroboliviano y otros. Su funci&oacute;n es participar en la formulaci&oacute;n de pol&iacute;ticas educativas, velando por la adecuada implementaci&oacute;n y aplicaci&oacute;n de la educaci&oacute;n intracultural, intercultural y pluriling&uuml;e desde la planificaci&oacute;n hasta la evaluaci&oacute;n.</li>
+<li>Concejo Educativo Plurinacional: Sus funciones son proponer proyectos de pol&iacute;ticas educativas integrales, de consenso y vigilar el cumplimiento de las resoluciones del Congreso Plurinacional de Educaci&oacute;n.</li>
+<li>Congreso Plurinacional de Educaci&oacute;n: Es la instancia m&aacute;xima de definici&oacute;n de la pol&iacute;tica nacional de educaci&oacute;n que re&uacute;ne a todos los sectores de la sociedad. Ser&aacute; convocado por el Concejo Educativo Plurinacional cada cinco a&ntilde;os para procesos de seguimiento y evaluaci&oacute;n. Sus conclusiones y recomendaciones son vinculantes a los Poderes Legislativo y Ejecutivo y de cumplimento obligatorio por el gobierno a trav&eacute;s del Ministerio de Educaci&oacute;n y Culturas.</li>
+</ul>
+<h3>Estructura del sistema educativo </h3>
+SUBSISTEMA DE EDUCACI&Oacute;N REGULAREs la educaci&oacute;n integral sistem&aacute;tica, normada, obligatoria y procesual que se brinda a todos los ni&ntilde;os, ni&ntilde;as, adolescentes y j&oacute;venes, desde su nacimiento hasta su inserci&oacute;n en la educaci&oacute;n superior de formaci&oacute;n profesional y con una mentalidad orientada al trabajo.La Educaci&oacute;n Regular comprende:
+<ul>
+<li>Educaci&oacute;n en familia comunitaria (inicial)</li>
+<li>Educaci&oacute;n comunitaria vocacional (primaria)</li>
+<li>Educaci&oacute;n comunitaria productiva (secundaria)Abarca de 0 a 5 a&ntilde;os de edad y comprende dos etapas:
+<ol><li>Educaci&oacute;n en familia, de 0 a 3 a&ntilde;os.Los objetivos de la educaci&oacute;n en familia se orientan a la conservaci&oacute;n de la salud del infante, a trav&eacute;s de una buena nutrici&oacute;n y la estimulaci&oacute;n temprana para su desarrollo sensorio motriz, afectivo, espiritual, cognitivo pertinente a su cultura, principalmente a trav&eacute;s del amor materno, paterno y familiar. Es de responsabilidad compartida entre la familia, la comunidad y el Estado.</li>
+<li>Educaci&oacute;n en familia comunitaria, de 4 a 5 a&ntilde;os.</li>
+</ol></li>
+</ul>
+Los objetivos de la educaci&oacute;n en familia comunitaria son: desarrollar las capacidades cognitivas, ling&uuml;&iacute;sticas, psicomotrices, socioafectivas, espirituales y art&iacute;sticas que favorezcan a las actitudes de autonom&iacute;a, cooperaci&oacute;n y toma de decisiones en el proceso de construcci&oacute;n de su pensamiento a trav&eacute;s de la consolidaci&oacute;n de las funciones simb&oacute;licas y la estructuraci&oacute;n progresiva de las diversas operaciones l&oacute;gicomatem&aacute;ticas, l&oacute;gico espacio temporales y otrasEducaci&oacute;n comunitaria vocacional (primaria) Con 8 a&ntilde;os de duraci&oacute;n.Comprende la formaci&oacute;n b&aacute;sica, cimiento de todo el proceso de formaci&oacute;n posterior que tiene car&aacute;cter intracultural, intercultural y pluriling&uuml;e, donde los conocimientos y la formaci&oacute;n cualitativa de los educandos culminan en la definici&oacute;n de su vocaci&oacute;n, en el marco de su relaci&oacute;n y afinidad con la ciencia, la cultura, la naturaleza y el trabajo.Este nivel, brindar&aacute; condiciones necesarias de permanencia y desarrollo de todas las capacidades y potencialidades de los educandos para su desarrollo integral.&nbsp;Comprende dos etapas:
+<ol>
+<li>B&aacute;sica vocacional, de 5 a&ntilde;os de duraci&oacute;n.Desarrolla las capacidades, habilidades y destrezas comunicativas, orales, de lectura comprensiva, producci&oacute;n escrita, &eacute;ticamoral, espiritual, el razonamiento l&oacute;gico matem&aacute;tico, formaci&oacute;n t&eacute;cnicatecnol&oacute;gica, educaci&oacute;n f&iacute;sica deportiva, art&iacute;stica y de experimentaci&oacute;n.</li>
+<li>Avanzada vocacional, de 3 a&ntilde;os de duraci&oacute;n.Desarrolla principios y valores espirituales, &eacute;ticomorales con pensamiento cr&iacute;tico, reflexivo y propositivo; capacidades y manejo adecuado de la comunicaci&oacute;n oral, escrita y ling&uuml;&iacute;stica; destrezas y habilidades f&iacute;sicas, art&iacute;sticas, t&eacute;cnicas y tecnol&oacute;gicas; conservaci&oacute;n del medio ambiente y fomento de la producci&oacute;n ecol&oacute;gica; desarrollo del pensamiento l&oacute;gicomatem&aacute;tico en relaci&oacute;n con las actividades cient&iacute;ficas y productivas, para identificar en los educandos vocaciones que les permitan continuar estudios superiores o incorporarse a las actividades socioproductivas con pertinencia y sensibilidad social.</li>
+</ol>
+Educaci&oacute;n comunitaria productiva (secundaria)Tiene car&aacute;cter cient&iacute;fico y t&eacute;cnico tecnol&oacute;gico, con 4 a&ntilde;os de duraci&oacute;n. Implica la articulaci&oacute;n de la educaci&oacute;n cient&iacute;fica y t&eacute;cnica tecnol&oacute;gica con la producci&oacute;n. Adem&aacute;s, es descolonizadora porque valoriza y legitima los conocimientos y saberes de las culturas ind&iacute;genas originarias en di&aacute;logo intercultural con el conocimiento universal. Fortalece la formaci&oacute;n recibida en la educaci&oacute;n comunitaria vocacional, porque es equilibrada, integral, cient&iacute;fica human&iacute;stica, t&eacute;cnicatecnol&oacute;gica, espiritual, &eacute;ticamoral, art&iacute;stica, deportiva, ciencias exactas, naturales, sociales y una formaci&oacute;n productiva especializada orientada a obtener un grado t&eacute;cnico en:
+<ol>
+<li>Ciencias productivas tecnol&oacute;gicas
+<ul>
+<li>Educaci&oacute;n agropecuaria y forestal</li>
+<li>Educaci&oacute;n comercial</li>
+<li>Educaci&oacute;n industrial</li>
+<li>Educaci&oacute;n en nuevas tecnolog&iacute;as de informaci&oacute;n y comunicaci&oacute;n</li></ul></li>
+<li>Ciencias de la salud
+<ul>
+<li>Nutrici&oacute;n</li>
+<li>Medicina natural y tradicional</li>
+<li>Primeros auxilios</li>
+</ul></li>
+<li>Ciencias art&iacute;sticas, f&iacute;sicas y deportivas
+<ul>
+<li>M&uacute;sica</li>
+<li>Danza</li>
+<li>Teatro</li>
+<li>Artes pl&aacute;sticas</li>
+<li>Artesan&iacute;as</li>
+<li>Educaci&oacute;n f&iacute;sica y disciplinas deportivas.</li>
+<li>Educaci&oacute;n en seguridad ciudadana y comunitaria</li>
+</ul>
+</li>
+<li>Cient&iacute;fico human&iacute;stico
+<ul>
+<li>Ciencias naturales</li>
+<li>Ciencias exactas</li>
+<li>Ciencias sociales</li>
+<li>Otras ciencias seg&uacute;n necesidades del contexto.</li>
+</ul></li>
+</ol>
+A la culminaci&oacute;n de los estudios del nivel de educaci&oacute;n comunitaria productiva, el Ministerio de Educaci&oacute;n y Culturas otorgar&aacute; el T&iacute;tulo de Bachiller de car&aacute;cter cient&iacute;fico t&eacute;cnico que acredita su formaci&oacute;n productiva especializada.La Educaci&oacute;n para la poblaci&oacute;n desprotegida es la educaci&oacute;n integral dirigida a la atenci&oacute;n de ni&ntilde;as, ni&ntilde;as, adolescentes, j&oacute;venes trabajadores desprotegidos y en desventaja social para protegerlos del entorno mediante programas especiales de hogares abiertos con servicios integrales de salud, alimentaci&oacute;n, educaci&oacute;n y reinserci&oacute;n socio laboral.SUBSISTEMA DE EDUCACI&Oacute;N SUPERIOR DE FORMACI&Oacute;N PROFESIONALLa Educaci&oacute;n Superior de Formaci&oacute;n Profesional es la Educaci&oacute;n destinada a formar profesionales id&oacute;neos; con vocaci&oacute;n de servicio, compromiso social, excelencia acad&eacute;mica, con consciencia cr&iacute;tica de la realidad sociocultural, con la capacidad de crear, aplicar, transformar la ciencia y la tecnolog&iacute;a universal en beneficio de los intereses del Estado Plurinacional boliviano.Promueve la investigaci&oacute;n cient&iacute;fica, la interacci&oacute;n social y comprende la formaci&oacute;n: t&eacute;cnica superior, de maestros, militar, policial y universitaria.La Formaci&oacute;n T&eacute;cnica Superior y Art&iacute;stica es una educaci&oacute;n integral, pr&aacute;cticote&oacute;rica orientada a la formaci&oacute;n profesional de recursos humanos a nivel de t&eacute;cnico para el desarrollo productivo sostenible, sustentable y autogestionario desde una perspectiva cient&iacute;fica y tecnol&oacute;gica, con identidad Plurinacional.Son objetivos de Formaci&oacute;n T&eacute;cnica Superior y Art&iacute;stica:
+<ul>
+<li>Formar recursos humanos para el mundo del trabajo que respondan a las necesidades y caracter&iacute;sticas productivas y culturales de las regiones, seg&uacute;n formas de organizaci&oacute;n territorial.</li>
+<li>Recuperar, desarrollar, difundir y proteger las t&eacute;cnicas, tecnolog&iacute;as, artes y conocimientos de los pueblos ind&iacute;genas originarios y afroboliviano por su importancia y significaci&oacute;n pol&iacute;tica, pedag&oacute;gica, ecol&oacute;gica y econ&oacute;mica.</li>
+<li>Crear e implementar infraestructura y equipamiento adecuados para brindar un servicio de educaci&oacute;n productiva tecnol&oacute;gica acorde a las demandas y necesidades de la comunidad.</li>
+<li>Establecer par&aacute;metros de evaluaci&oacute;n y certificaci&oacute;n cualitativa de los recursos humanos, infraestructura, equipamiento y programas de estudio, como condici&oacute;n indispensable para el funcionamiento de los institutos superiores establecidos en el Estado Plurinacional.</li>
+<li>Sistematizar, reconocer y acreditar los saberes y conocimientos ancestrales, experiencias y oficios adquiridos en la vida cotidiana.</li>
+</ul>
+Con car&aacute;cter enunciativo la formaci&oacute;n t&eacute;cnica y art&iacute;stica superior comprende:&Aacute;mbitos
+<ul>
+<li>T&eacute;cnica agropecuaria</li>
+<li>T&eacute;cnica artesanal</li>
+<li>T&eacute;cnica inform&aacute;tica</li>
+<li>T&eacute;cnica industrial</li>
+<li>T&eacute;cnica comercial</li>
+<li>Art&iacute;stica y est&eacute;tica</li>
+<li>Desarrollo social comunitario</li>
+<li>Lengua cultura y turismo</li>
+<li>Salud</li>
+<li>Educaci&oacute;n f&iacute;sica y deportivaNiveles1. T&eacute;cnico Medio2. T&eacute;cnico Superior</li>
+</ul>
+El curr&iacute;culo de la formaci&oacute;n t&eacute;cnica tecnol&oacute;gica y art&iacute;stica responde a las potencialidades productivas, al desarrollo del conocimiento, requerimiento socioecon&oacute;mico y desarrollo tecnol&oacute;gico de las diferentes regiones del Estado Plurinacional y est&aacute; articulado a la formaci&oacute;n universitaria.Los actuales institutos t&eacute;cnicos de car&aacute;cter p&uacute;blico, bajo reglamentaci&oacute;n espec&iacute;fica se transforman en Institutos Superiores T&eacute;cnico Tecnol&oacute;gicos y Art&iacute;stico dependientes del Ministerio de Educaci&oacute;n y Culturas.La Universidad Pedag&oacute;gica de Postgrado est&aacute; orientada a promover la investigaci&oacute;n cient&iacute;fica educativa y la formaci&oacute;n permanente de maestros del Estado Plurinacional. Esta universidad ofrece formaci&oacute;n de postgrado: maestr&iacute;as, doctorados y cursos de diplomado para maestros titulados a nivel de licenciatura.La Formaci&oacute;n Superior Universitaria es parte del Sistema Educativo Plurinacional. Promueve con pertinencia hist&oacute;rica cultural, la formaci&oacute;n cient&iacute;fica, exacta, t&eacute;cnica, tecnol&oacute;gica, art&iacute;stica y sociopol&iacute;tica de profesionales altamente cualificados y con pr&aacute;ctica de valores que contribuyan al desarrollo productivo e integral del Estado, desarrollando los conocimientos y saberes de las naciones ind&iacute;genas originarias, de sectores sociales y populares, en complementariedad con la ciencia y tecnolog&iacute;a universal.Se establece la unicidad y universalidad curricular de la formaci&oacute;n superior a trav&eacute;s del Consejo Acad&eacute;mico Nacional de Educaci&oacute;n Superior, desde t&eacute;cnico medio, t&eacute;cnico superior, hasta la licenciatura y post grado, para garantizar la transitabilidad de la profesionalizaci&oacute;n universitaria p&uacute;blica y privada.Las universidades comunitarias pluriculturales, responden a la realidad cultural, ling&uuml;&iacute;stica y requerimientos de las naciones originarias.
+<h3>Tratamiento de la diversidad </h3>
+DIVERSIDAD SOCIOCULTURAL Y LING&Uuml;&Iacute;STICAPor la diversidad ling&uuml;&iacute;stica que existe en el Estado Plurinacional, se adoptan las siguientes estrategias obligatorias de uso de las lenguas en el Sistema Educativo:
+<ol>
+<li>Ense&ntilde;anza en y de las lenguas:Lengua originaria como primera lengua (L1) y el castellano como segunda lengua (L2), en poblaciones o comunidades monoling&uuml;es y de predominio de la lengua originaria.El castellano como primera lengua (L1) y la originaria como segunda (L2), en poblaciones o comunidades monoling&uuml;es y de predominio del castellano.En las comunidades o regiones triling&uuml;es o pluriling&uuml;es, la elecci&oacute;n de la lengua originaria se sujeta a criterios de territorialidad y transterritorialidad definidos por los concejos comunitarios.En el caso de las lenguas en peligro de extinci&oacute;n, se implementan pol&iacute;ticas ling&uuml;&iacute;sticas de recuperaci&oacute;n y desarrollo con participaci&oacute;n directa de los hablantes de dichas lenguas.</li>
+<li>Ense&ntilde;anza de lengua extranjera:La ense&ntilde;anza de la lengua extranjera se inicia en forma gradual y obligatoria desde los primeros a&ntilde;os de escolaridad, con metodolog&iacute;a pertinente y personal especializado, continuando en todos los niveles del Sistema Educativo Plurinacional.</li>
+</ol>
+Desarrollo de la intraculturalidad e interculturalidad:
+<ol>
+<li>IntraculturalidadEl desarrollo de la intraculturalidad promueve la cohesi&oacute;n y fortalecimiento de las naciones ind&iacute;genas originarias, afroboliviano y de sectores sociales menos favorecidos para la consolidaci&oacute;n de un Estado Plurinacional basado en equidad, solidaridad, complementariedad, reciprocidad y justicia.Todo el Sistema Educativo Plurinacional incorpora en el curr&iacute;culo los saberes y conocimientos de los pueblos ind&iacute;genas originarios expresados en el desarrollo de la cosmovisi&oacute;n, ciencias sociales y naturales, tecnolog&iacute;a, matem&aacute;tica, m&uacute;sica, danza, arte, literatura, astronom&iacute;a, medicina, historia, idiomas, espiritualidad y otras de manera gradual o simult&aacute;nea.</li>
+<li>InterculturalidadEs la relaci&oacute;n sim&eacute;trica de conocimientos, saberes, ciencia y tecnolog&iacute;a propios con los ajenos, que fortalece la identidad propia y la interacci&oacute;n en igualdad de condiciones entre las culturas ind&iacute;gena originaria y la occidental.Se promueven pr&aacute;cticas de interacci&oacute;n entre diferentes pueblos y culturas desarrollando actitudes de valoraci&oacute;n, convivencia y di&aacute;logo entre distintas visiones de mundo, para proyectar y universalizar la sabidur&iacute;a propia.El Sistema de Educaci&oacute;n Plurinacional comprende los siguientes subsistemas:
+<ul>
+<li>Subsistema de Educaci&oacute;n Regular.</li>
+<li>Subsistema de Educaci&oacute;n Alternativa y Especial.</li>
+<li>Subsistema de Educaci&oacute;n Superior de Formaci&oacute;n Profesional.</li>
+</ul>
+</li>
+</ol>
+SUBSISTEMA DE EDUCACI&Oacute;N ALTERNATIVA Y ESPECIALLa Educaci&oacute;n Alternativa es la educaci&oacute;n destinada a satisfacer necesidades de aprendizaje de personas que por diversas causas no pudieron acceder al subsistema de Educaci&oacute;n Regular o que tienen necesidades de formaci&oacute;n permanente para la vida.Comprende la educaci&oacute;n regular alternativa y educaci&oacute;n permanente que forman parte del Sistema Educativo Plurinacional.Son objetivos del subsistema de Educaci&oacute;n Alternativa:
+<ul><li>Garantizar la universalidad y gratuidad de la educaci&oacute;n para la poblaci&oacute;n que requiere este servicio, bajo la tuici&oacute;n del Estado.</li>
+<li>Garantizar una educaci&oacute;n p&uacute;blica, descolonizadora, comunitaria, intracultural, intercultural y pluriling&uuml;e de calidad para los participantes del subsistema de educaci&oacute;n alternativa.</li>
+<li>Implementar planes, programas y proyectos educativos con enfoque integral, orientados a satisfacer necesidades colectivas e individuales para la producci&oacute;n y la productividad, el desarrollo social y econ&oacute;mico del Estado Plurinacional.</li>
+<li>Incorporar y desarrollar las Tecnolog&iacute;as de Informaci&oacute;n y Comunicaci&oacute;n como estrategias que garantizan la calidad en los aprendizajes en el marco de los valores culturales.</li>
+<li>Fomentar la educaci&oacute;n abierta; desarrollando diversas modalidades de atenci&oacute;n: a distancia, semipresencial y virtual.La Educaci&oacute;n regular alternativa atiende a los j&oacute;venes y adultos que por diversas razones no tuvieron la oportunidad de continuar sus estudios regulares; de acuerdo a sus necesidades de vida y de su entorno social, mediante procesos de ense&ntilde;anza y de aprendizaje permanente e integral, con el mismo nivel de calidad y pertinencia que en el subsistema regular.El objetivo es garantizar una educaci&oacute;n de calidad a trav&eacute;s de un curr&iacute;culo integral y diversificado que permita la transitabilidad y articulaci&oacute;n en igualdad de condiciones a la educaci&oacute;n superior, en modalidades de atenci&oacute;n presencial, a distancia y virtual.</li>
+</ul>
+Los niveles de atenci&oacute;n de Educaci&oacute;n Regular Alternativa son:
+<ul>
+<li>Alfabetizaci&oacute;n biling&uuml;e.</li>
+<li>Educaci&oacute;n comunitaria vocacional.</li>
+<li>Educaci&oacute;n comunitaria productiva.</li>
+<li>Educaci&oacute;n comunitaria art&iacute;stica</li>
+<li>Educaci&oacute;n comunitaria t&eacute;cnica con una profesi&oacute;n de oficio.La Educaci&oacute;n Permanente es un proceso educativo continuo a lo largo de la vida de manera abierta, destinada a satisfacer necesidades de aprendizaje de personas, familias y comunidades, bajo modalidades flexibles y pr&aacute;cticas con reconocimiento de experiencias previas.La educaci&oacute;n permanente desarrolla sus acciones en los siguientes &aacute;mbitos: Familiar Comunitaria, Multisectorial y Educaci&oacute;n abierta.</li>
+</ul>
+La Educaci&oacute;n Especial, atiende a la poblaci&oacute;n con necesidades educativas especiales, desde el momento de nacimiento hasta la edad adulta por la diferencia en sus capacidades psicol&oacute;gicas, intelectuales, f&iacute;sicas y sensoriales dentro del marco de una educaci&oacute;n nacional inclusiva, respetando sus habilidades y potencialidades particulares.Las modalidades de atenci&oacute;n y servicio son las siguientes:
+<ul>
+<li>Integraci&oacute;n educativa.</li>
+<li>Aula especial.</li>
+<li>Escuela especial.</li>
+</ul>
+<h3>Fuentes de informaci&oacute;n</h3> 
+Sistema de Informaci&oacute;n Educativa<a href="http://sieweb.minedu.gob.bo/">http://sieweb.minedu.gob.bo/</a>
+Ministerio de Educaci&oacute;n de Bolivia<a href="http://www.minedu.gob.bo/educacion/index.php">http://www.minedu.gob.bo/educacion/index.php</a>
+', 'Multiculturalismo', 'page'),
 (3x,	'XXXX', 			'
 ', 'Multiculturalismo', 'page');
 
 Insert into ENLACES_PAGINAS_ESTATICAS (	ID_PAGINA_PADRE, ID_PAGINA_HIJA) values
-(22,23),(22,24),(22,25),(22,26),(22,27),(22,28),(22,29),(22,30),(22,3),(22,3),
+(22,23),(22,24),(22,25),(22,26),(22,27),(22,28),(22,29),(22,30),(22,31),(22,32),
 (22,3),(22,3),(22,3);
 
 Insert into PAGINAS_ESTATICAS (ID,TITULO,CONTENIDO,CATEGORIA, TIPO) values
